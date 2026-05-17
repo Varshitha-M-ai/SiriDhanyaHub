@@ -35,7 +35,40 @@ Siri-Dhanya Hub is an Android application developed to promote millet awareness,
 4. Run the application on Emulator or Android Device
 
 ## Screenshots
-<img width="1080" height="1678" alt="Screenshot_20260507_124930" src="https://github.com/user-attachments/assets/dfa66d0e-a938-4622-8d35-1778de582a4a" />
+## Splash Screen
+<img src="https://github.com/user-attachments/assets/dfa66d0e-a938-4622-8d35-1778de582a4a" width="250"/>
+
+## Home Screen
+<img src="https://github.com/user-attachments/assets/2515a48d-ee2b-4138-b017-2105bc82ec58" width="250"/>
+
+## Mandi Watch
+<img src="https://github.com/user-attachments/assets/eb78fd3b-6fe7-40b5-a6e5-4f6557a9a8b4" width="250"/>
+
+## Recipe Lab
+<img src="https://github.com/user-attachments/assets/3b3eb926-291d-4011-a9db-ed542822c9a2" width="250"/>
+
+## Search Feature
+<img src="https://github.com/user-attachments/assets/f8c5e6ff-5e6c-42af-b123-29df7aff396a" width="250"/>
+
+## Recipe Detail Page
+<img src="https://github.com/user-attachments/assets/9bad0b3d-517b-4fc5-a79c-ed63a5d7b896" width="250"/>
+
+## Health Benefits
+<img src="https://github.com/user-attachments/assets/28796f17-57a7-4106-96d1-8365fe6d044a" width="250"/>
+
+## Direct Buy
+<img src="https://github.com/user-attachments/assets/6a629748-d0cb-4597-aae4-dcfa13ef2046" width="250"/>
+
+## Favorites Feature
+<img src="https://github.com/user-attachments/assets/d3c79a41-312b-46cf-a6ed-8fd518f31ebd" width="250"/>
+
+
+
+
+
+
+
+
 
 
 ## Future Improvements
