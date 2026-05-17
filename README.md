@@ -70,5 +70,8 @@ Siri-Dhanya Hub is an Android application developed to promote millet awareness,
 - Multi-language Support
 - User Login System
 
+## APK Download
+[Download APK](paste-your-apk-link-here)
+
 ## Developed By
 Varshitha M
